@@ -118,3 +118,6 @@ The backend implementation work has been divided between two developers:
 - **Person A (`feat/person-a`):** Yarn Management, Machine Fleet, and Shop Floor Operations. Detailed instructions in [`tasks/person-a.md`](./tasks/person-a.md).
 - **Person B (`feat/person-b`):** Sales Orders, Production Orders, Quality Control, and Dispatches. Detailed instructions in [`tasks/person-b.md`](./tasks/person-b.md).
 - **Final Shared Phase:** Dashboard KPIs and Executive Reports.
+
+
+This is done for Odoo hackathon Bangalore NMIT college 
